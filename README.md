@@ -10,7 +10,7 @@
 
 <div align=center>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gwangwonkim-5b257526)](https://www.linkedin.com/in/gwangwonkim-5b257526) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gwangwonkim-5b2575261)](https://www.linkedin.com/in/gwangwonkim-5b2575261) 
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&link=https://frill-nail-7aa.notion.site/Gwangwon-Kim-51821405b6784accb2123003c04eaa1b)](https://frill-nail-7aa.notion.site/Gwangwon-Kim-51821405b6784accb2123003c04eaa1b) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gwangwon6777@gmail.com)](mailto:gwangwon6777@gmail.com)
 </div>
