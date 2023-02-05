@@ -6,8 +6,7 @@
 
 ### Interest
 - Data analytics and mining based on big data.
-- ML / DL
-- Field of manufacturing
+- ML / DL in manufacturing.
 
 <div align=center>
 
