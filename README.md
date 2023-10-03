@@ -5,6 +5,7 @@
 </div>
 
 ### Interest
+- IT Planner
 - Data analytics and mining based on big data.
 - ML / DL in manufacturing.
 
