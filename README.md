@@ -1,7 +1,5 @@
 <div align=center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dev-gw)](https://github.com/dev-gw) 
-
 </div>
 
 ### Interest
